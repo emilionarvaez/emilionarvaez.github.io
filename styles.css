@@ -1,20 +1,12 @@
-/* header {
-  background-color: #413c69;
-} */
-/* p {
-  padding-bottom: 10%;
-  text-align: justify;
-  max-width: 10%;
-} */
-
-/* li {
-  padding-left: 50%;
-} */
-
 footer {
   padding: 3% 0% 3% 0%;
   text-align: center;
   background-color: #f3f4ed;
+  color: #687980;
+}
+
+section {
+  font-family: "Cabin", sans-serif;
 }
 
 .border-right {
@@ -27,7 +19,6 @@ footer {
 
 .welcome-msg {
   padding-bottom: 4%;
-  font-family: "Cabin", sans-serif;
   font-size: 50px;
   text-align: center;
 }
