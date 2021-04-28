@@ -1,0 +1,57 @@
+/* header {
+  background-color: #413c69;
+} */
+/* p {
+  padding-bottom: 10%;
+  text-align: justify;
+  max-width: 10%;
+} */
+
+/* li {
+  padding-left: 50%;
+} */
+
+footer {
+  padding: 3% 0% 3% 0%;
+  text-align: center;
+  background-color: #f3f4ed;
+}
+
+.border-right {
+  border-right: 1px solid #687980;
+}
+
+.default-img {
+  max-width: 60%;
+}
+
+.welcome-msg {
+  padding-bottom: 4%;
+  font-family: "Cabin", sans-serif;
+  font-size: 50px;
+  text-align: center;
+}
+
+.about-section {
+  padding: 5% 0% 2% 0%;
+  background-color: #f3f4ed;
+  color: #687980;
+}
+
+.projects-section {
+  padding: 8% 0% 8% 0%;
+  background-color: #413c69;
+  color: white;
+}
+
+.expertise-section {
+  padding: 8% 0% 8% 0%;
+  background-color: #f3f4ed;
+  color: #687980;
+}
+
+.contact-section {
+  padding: 6% 0% 8% 10%;
+  background-color: #4a47a3;
+  color: white;
+}
